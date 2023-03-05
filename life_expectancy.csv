@@ -1,0 +1,28 @@
+Country,Year,Gender,LifeExpectancy,Income,Education,Region,GDPperCapita,BirthRate,MortalityRate
+United States,2020,Male,76,60000,Bachelor,North America,50000,12,5
+United States,2020,Female,81,50000,Bachelor,North America,50000,9,3
+Japan,2020,Male,84,50000,Bachelor,Asia,40000,7,2
+Japan,2020,Female,89,40000,Bachelor,Asia,40000,6,1
+Canada,2020,Male,81,60000,Master,North America,50000,10,3
+Canada,2020,Female,84,50000,Master,North America,50000,8,2
+China,2020,Male,76,40000,High School,Asia,30000,15,6
+China,2020,Female,81,30000,Bachelor,Asia,30000,12,4
+Germany,2020,Male,78,60000,Doctorate,Europe,50000,8,2
+Germany,2020,Female,83,50000,Doctorate,Europe,50000,6,1
+United Kingdom,2020,Male,77,60000,High School,Europe,50000,10,3
+United Kingdom,2020,Female,81,50000,High School,Europe,50000,8,2
+France,2020,Male,77,60000,Bachelor,Europe,50000,12,4
+France,2020,Female,83,50000,Bachelor,Europe,50000,10,3
+Brazil,2020,Male,75,40000,,South America,30000,,
+India,2020,Male,68,,High School,Asia,30000,15,6
+India,2020,Female,72,30000,High School,Asia,30000,12,4
+Australia,2020,Male,81,60000,Doctorate,Oceania,50000,8,2
+Australia,2020,Female,84,50000,Doctorate,Oceania,50000,6,1
+Russia,2020,Male,68,60000,Bachelor,Europe,50000,12,5
+Russia,2020,Female,72,50000,Bachelor,Europe,50000,9,3
+Argentina,2020,Male,75,40000,Master,South America,30000,11,3
+Argentina,2020,Female,78,30000,Master,South America,30000,8,2
+Mexico,2020,Male,75,50000,High School,North America,40000,13,5
+Mexico,2020,Female,78,40000,High School,North America,40000,10,3
+New Zealand,2020,Male,80,60000,Doctorate,Oceania,50000,7,2
+New Zealand,2020,Female,82,50000,Doctorate,Oceania,50000,6,1
